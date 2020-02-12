@@ -1,0 +1,7 @@
+{
+    "users": [
+        { "id": 1, "username": "test", "password": "test" },
+        { "id": 2, "username": "fitoussi.steeve@gmail.com", "password": "password" },
+        { "id": 3, "username": "scenariste.en.herbe@gmail.com", "password": "password" }
+    ]
+}
